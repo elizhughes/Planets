@@ -1,1 +1,3 @@
-Mars is cold and dry. Modifying file for a second time.
+Mars is cold and dry. 
+Modifying file for a second time. 
+Mars has 2 moons.
